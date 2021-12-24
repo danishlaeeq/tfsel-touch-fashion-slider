@@ -15,6 +15,8 @@ Touch Fashion Slider - TFS is an elementor add-on to add an attracting slider to
 
 [View Demo](https://techriver.com.pk/teknofraction/tfsel/)
 
+[See More Plugins](https://codecanyon.net/user/TeknoFraction/portfolio)
+
 ### 2 Ready Made slider Elements 
 
 We have designed 2 of the most useful elements to showcase/decorate your website with touch slider styling. It allows you to climb the top of your design capabilities.
