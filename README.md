@@ -9,6 +9,20 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Showcase useful elements with premium slider style for elementor page builder. It offers premium features & functionalities that enhance your elementor experience at next level.
 
+
+## Support My Work
+
+### [Buy Me a Coffee](https://www.buymeacoffee.com/danishlaeeq)
+### [PayPal](https://www.paypal.com/paypalme/makstudioo/5usd)
+
+## Screenshots
+
+### 1. Slider Style 1
+<img src="https://github.com/danishlaeeq/tfsel-touch-fashion-slider/blob/898e9367c68c9f834004c5f0481fb9294026018c/assets/screenshot-01.jpg?raw=true">
+<h3>2. Slider Style 2</h3>
+<img src="https://github.com/danishlaeeq/tfsel-touch-fashion-slider/blob/898e9367c68c9f834004c5f0481fb9294026018c/assets/screenshot-02.jpg?raw=true">
+
+
 ### Description
 
 Touch Fashion Slider - TFS is an elementor add-on to add an attracting slider to your website, with 2 unique slider style/design. This is an simple and flexible way to add new elements/widgets to Elementor Page Builder.
@@ -44,14 +58,5 @@ Can I change color or customize slider style as per my wish?
 * Yes, You can customize it. We provided all possible options in backend to update it from default slider elements.
 
 
-## Screenshots
 
-### 1. Slider Style 1
-<img src="https://github.com/danishlaeeq/tfsel-touch-fashion-slider/blob/898e9367c68c9f834004c5f0481fb9294026018c/assets/screenshot-01.jpg?raw=true">
-<h3>2. Slider Style 2</h3>
-<img src="https://github.com/danishlaeeq/tfsel-touch-fashion-slider/blob/898e9367c68c9f834004c5f0481fb9294026018c/assets/screenshot-02.jpg?raw=true">
 
-#### Changelog
-1.0.0
-Release Date: December 23th, 2021
-* Initial release. Enjoy!
