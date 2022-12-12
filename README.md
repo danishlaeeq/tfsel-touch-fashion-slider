@@ -1,4 +1,5 @@
 ## Touch Fashion Slider for Elementor
+## [Download from WordPress.org ](https://wordpress.org/plugins/touch-fashion-slider-elementor-addon/)
 Tags: elementor slider addon, slider elements module, premium slider elements, elementor, elementor addon, profile slider, testimonial slider, post slider, recipe slider, tour slider, listing slider, elementor profile slider widget, elementor testimonial slider widget, elementor post slider widget, elementor recipe slider widget, elementor tour slider widget, elementor listing slider widget
 Requires at least: 4.9
 Tested up to: 5.8.2
@@ -29,7 +30,7 @@ Touch Fashion Slider - TFS is an elementor add-on to add an attracting slider to
 
 [View Demo](https://techriver.com.pk/teknofraction/tfsel/)
 
-[See More Plugins](https://codecanyon.net/user/TeknoFraction/portfolio)
+[See More Plugins](https://codecanyon.net/user/technodigitz/portfolio)
 
 ### 2 Ready Made slider Elements 
 
